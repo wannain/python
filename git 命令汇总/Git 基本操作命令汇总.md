@@ -139,6 +139,9 @@ git branch -u origin/luozijian luozijian
 
 ## git 同步主仓库
 
-使用 `remote` 系列命令来增加一个关联主机，执行 `git remote add [主机名] [主仓库的地址]`，注意，主仓库的地址使用 https 开头的
+执行 `git remote add [主机名] [主仓库的地址]`来增加一个关联主机，
+注意，主仓库的地址使用 https 开头的
+
+使用 `git remote -v` 命令查看关联的主机情况
 
 执行 `git pull --rebase origin master` 拉取
