@@ -1,5 +1,5 @@
 # Python
 The Algorithm of Python
 
-This repository conclude some familiar coding program in python.
+This repository includes some familiar coding program in python.
 flask
