@@ -141,7 +141,7 @@ Python 通过 `lambda` 提供了对匿名函数的支持，使用方法很简单
 
 **partial 函数**
 
-![partial 函数](C:\Users\15193\Desktop\partial.jpg)
+![partial 函数](https://github.com/wannain/python/blob/master/%E5%A5%87%E6%B7%AB%E6%8A%80%E5%B7%A7/partial.jpg)
 
 **切片 slice**
 
