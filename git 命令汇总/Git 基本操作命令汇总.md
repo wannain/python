@@ -145,3 +145,20 @@ git branch -u origin/luozijian luozijian
 使用 `git remote -v` 命令查看关联的主机情况
 
 执行 `git pull --rebase origin master` 拉取
+
+## git 修改仓库远程地址
+
+修改命令
+
+```shell
+git remote set-url origin [url]
+```
+
+或者先删后加
+
+```shell
+git remote rm origin
+
+git remote add origin [url]
+```
+
